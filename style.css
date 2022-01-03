@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: rgb(146, 131, 131);
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+}
